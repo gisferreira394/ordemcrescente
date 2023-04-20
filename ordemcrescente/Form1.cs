@@ -26,7 +26,7 @@ namespace ordemcrescente
 
             if (valor > valor2)
             {
-                MessageBox.Show("valor maior = " + valor);
+                MessageBox.Show("valor maior = " + valor); 
             }
             else if (valor < valor2)
             {
